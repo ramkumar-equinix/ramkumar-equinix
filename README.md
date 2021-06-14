@@ -35,6 +35,11 @@
 
 ---
 
+<br/> <br/>
+
+[![Ramkumar's github stats](https://github-readme-stats.vercel.app/api?username=ramkumar-equinix&show_icons=true&count_private=true&&hide=prs)](https://equinix.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkumar-equinix&layout=compact)](https://equinix.com)
+
 
 <!--
 **ramkumar-equinix/ramkumar-equinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
